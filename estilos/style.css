@@ -3,7 +3,7 @@
     font-size: 16xpx;
 }
 body{
-    background-color: rgb(255, 127, 127);
+    background-color: rgb(173, 179, 255);
 }
 
 main{
@@ -14,6 +14,6 @@ main{
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.459);
 }
 main h2{
-    color: rgb(143, 0, 0);
+    color: rgb(59, 10, 122);
     
 }
