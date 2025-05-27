@@ -17,3 +17,32 @@ main h2{
     color: rgb(59, 10, 122);
     
 }
+
+a {
+    font-size: 15px;
+    color: rgba(58, 10, 122, 0.575);
+    text-decoration:none;
+    -webkit-text-stroke: 1px;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgba(153, 75, 255, 0.575);
+}
+
+.bloco1{
+    padding: 5px;
+    align-items: center;
+}
+
+.lado{
+    float: right;
+    display:flexbox;
+}
+
+.botão img{
+    width: 35px;
+    height: 25px;
+    margin-top: 5px;
+}
+
