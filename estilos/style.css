@@ -13,9 +13,9 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.459);
 }
-main h2{
-    color: rgb(59, 10, 122);
-    
+
+header h1{
+    padding-left: 5px;
 }
 
 a {
@@ -35,6 +35,10 @@ a:hover{
     align-items: center;
 }
 
+.bloco1 h2{
+    color: rgb(59, 10, 122);
+}
+
 .lado{
     float: right;
     display:flexbox;
@@ -44,5 +48,9 @@ a:hover{
     width: 35px;
     height: 25px;
     margin-top: 5px;
+}
+
+.bloco2{
+    text-align: center;
 }
 
